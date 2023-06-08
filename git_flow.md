@@ -221,3 +221,7 @@ The overall flow of Gitflow is:
 5.  When the  `release`  branch is done it is merged into  `develop`  and  `main`
 6.  If an issue in  `main` is detected a  `hotfix`  branch is created from  `main`
 7.  Once the  `hotfix`  is complete it is merged to both  `develop`  and  `main`
+
+### You can get more information about Gitflow from the following resources:
+- https://git-scm.com/docs/gitworkflows
+- https://buildmedia.readthedocs.org/media/pdf/git-flow/latest/git-flow.pdf
