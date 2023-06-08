@@ -1,4 +1,4 @@
-
+## You can get information about basic Git commands here. For more information, you can visit [this](https://blog.testproject.io/2019/06/18/git-commands/) link.
 ### **1. git clone**
 
 This command is used for downloading the latest version of a remote project and copying it to the selected location on the local machine. It looks like this:
