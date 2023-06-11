@@ -223,5 +223,6 @@ The overall flow of Gitflow is:
 7.  Once the  `hotfix`  is complete it is merged to both  `develop`  and  `main`
 
 ### You can get more information about Gitflow from the following resources:
-- https://git-scm.com/docs/gitworkflows
-- https://buildmedia.readthedocs.org/media/pdf/git-flow/latest/git-flow.pdf
+
+- [Here](https://git-scm.com/docs/gitworkflows)
+- [Here](https://buildmedia.readthedocs.org/media/pdf/git-flow/latest/git-flow.pdf)
