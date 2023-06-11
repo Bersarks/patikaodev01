@@ -13,5 +13,6 @@
 
 ### To learn about Git Flow:
 `git_flow.md`
+
 ### To learn about basic Git commands:
 `basic_git_commands.md`
